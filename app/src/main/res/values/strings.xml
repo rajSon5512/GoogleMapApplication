@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MapFragment</string>
+    <string name="google_map_api_key">AIzaSyCTRTzM50GWi61bSTBmhe1kg-OrUaEk6_Q</string>
+
 </resources>
